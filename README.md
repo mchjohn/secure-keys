@@ -49,7 +49,7 @@ Leia o QRCode com o aplicativo Expo Go
 - [Expo Go AppStore](https://apps.apple.com/br/app/expo-go/id982107779)
 ## Demonstração
 
-https://res.cloudinary.com/sk84all/image/upload/v1639840269/GitHub%20Projects/WhatsApp_Video_2021-12-18_at_11.59.35_nd2lnb.gif
+![screenshot app](https://res.cloudinary.com/sk84all/image/upload/v1664300907/GitHub%20Projects/app-secure-keys_ey4ixc.jpg)
 ## Autores
 
 - [@mchjohn](https://github.com/mchjohn)
