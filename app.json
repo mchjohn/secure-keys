@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "secure-keys",
+    "slug": "secure-keys",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
