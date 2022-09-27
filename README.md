@@ -50,6 +50,7 @@ Leia o QRCode com o aplicativo Expo Go
 ## Demonstração
 
 <img src="https://res.cloudinary.com/sk84all/image/upload/v1664300907/GitHub%20Projects/app-secure-keys_ey4ixc.jpg" width="350" alt="screenshot app">
+
 ## Autores
 
 - [@mchjohn](https://github.com/mchjohn)
